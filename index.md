@@ -23,10 +23,13 @@ Beijing Jiaotong University
 ### Research Experience
 
 **Research Projects**
+
   交通部路网中心委托研究项目, 基于通行大数据的高速公路费率测算与仿真优化系统, 2018-2019, 结题.
+
   交通部路网中心委托研究项目, 佛山一环通行流量仿真测算, 2018-2019, 结题.
   
 **Contests**
+
   KDD Cup of Fresh Air, 全球排名第25名
   
 ### Publications
