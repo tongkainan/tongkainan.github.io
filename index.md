@@ -1,6 +1,7 @@
 ## Tong Kainan(童凯南)
 
-![image](3971885263989091712_IMG_9119.JPG)
+<img src="3971885263989091712_IMG_9119.JPG" width="96">
+
 
 **Student**
 
